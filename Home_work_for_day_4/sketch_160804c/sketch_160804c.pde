@@ -7,7 +7,7 @@ void setup(){
 }
 
   void draw(){
-    a = (int)random(350);
+    a = (int)random(250);
     i = (int)random(100); 
   for(i = 10; i < width; i += 10) {
   if((i % 20) == 0) {
